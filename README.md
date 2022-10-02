@@ -1,1 +1,0 @@
-# -awesome-hacktoberfest-2022
